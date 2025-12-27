@@ -2,10 +2,10 @@ import React from 'react'
 
 function Header() {
   return (
-    <div className='p-2 shadow-sm'>
+    <div className='p-4 shadow-sm flex items-center  w-full p-4 justify-between'>
         <img src='/logo.svg'/>
         <div>
-            <button>sign in</button>
+            <button className='box'>sign in</button>
         </div>
     </div>
   )
