@@ -52,7 +52,10 @@ function CreateTrip() {
         </div>
       </div>
       <div className='my-10 flex justify-end'>
-        <Button className='box'>Generate Trip</Button>
+        <Button className='box text-white'>Generate Trip</Button>
+      </div>
+      <div>
+        <div>hii</div>
       </div>
       
     </div>
