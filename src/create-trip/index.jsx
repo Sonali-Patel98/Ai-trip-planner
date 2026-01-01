@@ -57,6 +57,9 @@ function CreateTrip() {
       <div>
         <div>hii</div>
       </div>
+      <div>
+        <div>hii</div>
+      </div>
       
     </div>
     
